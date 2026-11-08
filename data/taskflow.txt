@@ -1,0 +1,21 @@
+TaskFlow Support Guide
+
+Inviting teammates
+Workspace administrators can invite teammates from Settings > Members > Invite.
+Enter the teammate's email address and select Send invitation.
+Invitations expire after seven days. An administrator can send a new invitation.
+
+Resetting a password
+Select Forgot password on the sign-in screen and enter your account email.
+The password reset link expires after 30 minutes.
+
+Exporting tasks
+Open a project, select its menu, and choose Export CSV.
+Only workspace administrators can export tasks.
+
+Cancelling a subscription
+An administrator can cancel from Settings > Billing > Cancel subscription.
+Access continues until the end of the current billing period.
+
+Support hours
+Email support is available Monday to Friday, 09:00 to 18:00 UTC.
