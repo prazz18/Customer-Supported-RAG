@@ -1,3 +1,8 @@
+# this file deals with reading the file from file path and storing it after creating a id for it.
+# 1. reading as binary from file path
+# 2. decoding the binary as text
+# 3. storing the file as (id, file_name, text_content)
+
 from hashlib import sha256
 from pathlib import Path
 from dataclasses import dataclass
